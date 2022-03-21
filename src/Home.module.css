@@ -1,0 +1,23 @@
+.header{
+    background-color: gray;
+    height:60px;    
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:0 20px;
+}
+
+.title{
+    color:white;
+    font-weight:500;
+    cursor: pointer;
+}
+
+.btn{
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+}
